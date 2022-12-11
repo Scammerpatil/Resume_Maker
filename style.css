@@ -1,0 +1,15 @@
+/* body{
+    background:black;
+    color: white;
+} */
+#cv-form{
+    display: none;
+}
+.myimg{
+    border: 1px solid black;
+    border-radius: 50%;
+    width: 200px;
+}
+.backgraound{
+    background-color: aqua;
+}
